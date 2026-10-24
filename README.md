@@ -137,8 +137,8 @@ and successfully implemented using Verilog HDL.
 
 
 ## OUTPUT
+<img width="1366" height="1157" alt="image" src="https://github.com/user-attachments/assets/2477496b-1f12-4125-a3cb-df938bdf01e1" />
 
-<img width="1600" height="900" alt="exp 1" src="https://github.com/user-attachments/assets/ebeaa617-38bc-4c33-aa9d-886c7bd2e137" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
